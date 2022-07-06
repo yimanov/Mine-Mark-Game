@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationForGame_az
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: az
+  m_SharedData: {fileID: 11400000, guid: c2ab1aa7e6f194be9a2d6a8661e3d900, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 16943931392
+    m_Localized: Kitab
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 211299590144
+    m_Localized: "D\xFCzd\xFCr! Oyundan z\xF6vq al! "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 424764497920
+    m_Localized: "Biziml\u0259  \r\u0259l\u0259q\u0259 "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 557774266368
+    m_Localized: "Qar\u0131\u015F\u0131q \u015F\u0259kil oyunu "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 685826367488
+    m_Localized: "F\u0259rqi tap "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 808933384192
+    m_Localized: "Salam, Biz Mine Mark q\u0259hr\u0259manlar\u0131y\u0131q!"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 942521966592
+    m_Localized: "Tamamland\u0131 "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1045836062720
+    m_Localized: 'Yekun Hesab '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1152715317248
+    m_Localized: "Se\xE7iml\u0259r"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1261112909824
+    m_Localized: "\u018Fla"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1417715638272
+    m_Localized: Super
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1524250959872
+    m_Localized: Orta
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1642630995968
+    m_Localized: 'Gizli obyekt oyunu '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1824475045888
+    m_Localized: "Gizli obyekti qar\u0131\u015F\u0131ql\u0131qda tapma\u011Fa \xE7al\u0131\u015F\u0131n,
+      daha y\xFCks\u0259k bonus \xFC\xE7\xFCn tez tap\u0131n! "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2017471750144
+    m_Localized: "Minalar t\u0259hl\xFCk\u0259lidir v\u0259 h\u0259r k\u0259s onlardan
+      \xE7\u0259kinm\u0259lidir "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2018247696384
+    m_Localized: "M\xFChiti se\xE7 "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2145767120896
+    m_Localized: "H\u0259ll Edildi"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2337740414976
+    m_Localized: "\u015E\u0259kil hiss\u0259l\u0259rini d\u0259yi\u015Fm\u0259kl\u0259
+      tam \u015F\u0259kili d\xFCz\u0259lt "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2544666402816
+    m_Localized: "\xDCnvan\nThe Hague Humanity Hub Fluwelen Burgwal 58, 2511 CJ The
+      Hague, Netherlands\n\nEmail: "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2798551818240
+    m_Localized: Vaxt bitdi!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2874649075712
+    m_Localized: Pazl
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3035378999296
+    m_Localized: "\u018Fla"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3147845066752
+    m_Localized: "\xC7\u0259tin"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3267789578240
+    m_Localized: "BA\u015ELA"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3378154299392
+    m_Localized: 'Oyun bitdi '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3480419819520
+    m_Localized: ' Tur - '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3803834212352
+    m_Localized: "Tamamland\u0131"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3922201665536
+    m_Localized: 'Hesab:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4043261861888
+    m_Localized: 'Hesab:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4319460974592
+    m_Localized: "Oyunumuza xo\u015F g\u0259lmisiniz! "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4444249907200
+    m_Localized: Oyunlar
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4604203884544
+    m_Localized: "Mina v\u0259 ya x\u0259b\u0259rdaredici i\u015Far\u0259ni m\xFC\u0259yy\u0259nl\u0259\u015Fdir "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4719169757184
+    m_Localized: " Y\xFCks\u0259k Hesab:"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4833514872832
+    m_Localized: " Y\xFCks\u0259k Hesab:"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4925789560832
+    m_Localized: "Boya kitab\u0131 "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5021230948352
+    m_Localized: Asand
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5109424578560
+    m_Localized: "Tamamland\u0131"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5209555197952
+    m_Localized: "Mina, m\u0259rmi v\u0259 dig\u0259r n\u0259malum \u0259\u015Fyalarla
+      oynamaq t\u0259hl\xFCk\u0259lidir! Mina v\u0259 \u015F\xFCbh\u0259li \u0259\u015Fyalara
+      rast g\u0259ls\u0259niz d\u0259rhal valideynl\u0259riniz\u0259, m\xFC\u0259lliminiz\u0259
+      v\u0259 ya polis\u0259 x\u0259b\u0259r verin"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5297631387648
+    m_Localized: "Yadda\u015F oyunu"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5544529092608
+    m_Localized: "F\u0259rqi tap "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1017802847674368
+    m_Localized: "Mina v\u0259 ya x\u0259b\u0259rdaredici i\u015Far\u0259ni m\xFC\u0259yy\u0259nl\u0259\u015Fdir "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02f58bc00000000e0af189104000000e06fa1a504000000e0eff10300000000e06f323100000000e0efe56200000000e0efdd8100000000e06fae9f00000000e0af72db00000000e0af80f300000000e02f630c01000000e02fa02501000000e06f164a01000000e06fe46201000000e06f747e01000000e02fcba801000000e0afbad501000000e0efe8d501000000e0af99f301000000e02f4c2002000000e0ef795002000000e0af968b02000000e06f4e9d02000000e0afbac202000000e02feadc02000000e06fd7f802000000e0af891203000000e02f592a03000000e02fa67503000000e06f359103000000e02f65ad03000000e0efb3ed03000000e0efc10a04000000e0efff2f04000000e06fc44a04000000e0ef636504000000e0efdf7a04000000e0aff1bc04000000e06f73d104000000e0afef0a05000000e02fb1af9d0300

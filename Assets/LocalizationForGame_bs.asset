@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizationForGame_bs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: bs
+  m_SharedData: {fileID: 11400000, guid: c2ab1aa7e6f194be9a2d6a8661e3d900, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 16943931392
+    m_Localized: "Idi na Crti\u0107e "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 211299590144
+    m_Localized: "Ta\u010Dno, u\u017Eivaj u igri "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 424764497920
+    m_Localized: 'Kontaktiraj nas '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 557774266368
+    m_Localized: 'Igrica s kodiranom slikom '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 685826367488
+    m_Localized: "Prona\u0111i razlike "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 808933384192
+    m_Localized: Zdravo, mi smo Mine Mark superheroji!
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 942521966592
+    m_Localized: "Zavr\u0161eno"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1045836062720
+    m_Localized: "Kona\u010Dan rezultat "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1152715317248
+    m_Localized: 'Opcije '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1261112909824
+    m_Localized: "Odli\u010Dno"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1417715638272
+    m_Localized: Super
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1524250959872
+    m_Localized: Normalno
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1642630995968
+    m_Localized: 'Igra skrivenih predmeta '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1824475045888
+    m_Localized: "Poku\u0161aj da prona\u0111en skriveni objekat u neredu, brzo ga
+      prona\u0111i za ve\u0107i bonus "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2017471750144
+    m_Localized: 'Mine su opasne I svi bi trebalo da ih izbjegavaju '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2018247696384
+    m_Localized: "Izaberi okru\u017Eenje "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2145767120896
+    m_Localized: "Slagalica Rije\u0161en"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2337740414976
+    m_Localized: "Zamijenite plo\u010Dice u kodiranim slikama I vratite ih ponovo
+      u red "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2544666402816
+    m_Localized: 'Adresa
+
+      The Hague Humanity Hub Fluwelen Burgwal 58, 2511
+      CJ The Hague, Netherlands
+
+
+      Email: '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2798551818240
+    m_Localized: 'Vrijeme isteklo! '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2874649075712
+    m_Localized: Slagalica
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3035378999296
+    m_Localized: Strava
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3147845066752
+    m_Localized: "Te\u0161ko"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3267789578240
+    m_Localized: START
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3378154299392
+    m_Localized: "Igra  zavr\u0161ena "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3480419819520
+    m_Localized: Krug -
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3803834212352
+    m_Localized: "Zavr\u0161eno "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 3922201665536
+    m_Localized: 'Rezultat:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4043261861888
+    m_Localized: 'Rezultat:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4319460974592
+    m_Localized: "Dobrodo\u0161li u na\u0161e igrice!"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4444249907200
+    m_Localized: Idi na Igrice
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4604203884544
+    m_Localized: "Prona\u0111i minu ili znak upozorenja"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4719169757184
+    m_Localized: 'Visoki Rezultat:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4833514872832
+    m_Localized: 'Visoki Rezultat:'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 4925789560832
+    m_Localized: 'Knjiga o bojama '
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5021230948352
+    m_Localized: Lako
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5109424578560
+    m_Localized: "Zavr\u0161eno"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5209555197952
+    m_Localized: "Igranje eksplozivom mo\u017Ee biti opasno ili ako prepoznate opasna
+      podru\u010Dja, recite to svojim roditeljima, nastavnicima ili policiji"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5297631387648
+    m_Localized: Igra memorije
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 5544529092608
+    m_Localized: "Prona\u0111i razlike "
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1017802847674368
+    m_Localized: "Prona\u0111i minu ili znak upozorenja"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0af189104000000e06fa1a504000000e0eff10300000000e06f323100000000e0efe56200000000e0efdd8100000000e06fae9f00000000e02f58bc00000000e0af72db00000000e0af80f300000000e02f630c01000000e02fa02501000000e06f164a01000000e06fe46201000000e06f747e01000000e02fcba801000000e0afbad501000000e0efe8d501000000e0af99f301000000e02f4c2002000000e0ef795002000000e0af968b02000000e06f4e9d02000000e0afbac202000000e02feadc02000000e06fd7f802000000e0af891203000000e02f592a03000000e02fa67503000000e02f65ad03000000e06f359103000000e0efb3ed03000000e0efc10a04000000e0efff2f04000000e06fc44a04000000e0ef636504000000e0efdf7a04000000e0aff1bc04000000e06f73d104000000e0afef0a05000000e02fb1af9d0300
